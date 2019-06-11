@@ -1,2 +1,2 @@
 # integracion-redmine
-Proyecto para probar la integracion entre redmine y giy
+Proyecto para probar la integracion entre redmine y git
