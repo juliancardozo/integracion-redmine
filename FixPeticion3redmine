@@ -1,3 +1,4 @@
 ** Simulamos que este archivo es el commit de todos los archivos que contienen la solución para la petición 3 creadas en Redmine. **
 **Generamos el commit con el mensaje This commit refs: #3**
 **Se agrega esta linea para poder hacer commit**
+**Se agrega esta linea para poder hacer un nuevo commit y ver si cambia el estado de la peticion a feedback**
