@@ -7,7 +7,9 @@ assignees: ''
 
 ---
 
-** Describe el error **
+**Link al redmine**
+
+**Describe el error**
 Una descripción clara y concisa de lo que es el error.
 
 **Reproducir**
